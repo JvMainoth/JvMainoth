@@ -1,6 +1,6 @@
 ### Opa!!! Tudo bem? Eu sou João Victor Mainoth 😳
 
-- 🌱 Estou atualmente estudando SO Linux
+- 🌱 Estou atualmente estudando C#
 - 📫 E-mail para contato: jvmainoth@hotmail.com
 - 😄 Pronouns: ele/dele
 
