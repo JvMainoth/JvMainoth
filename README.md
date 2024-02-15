@@ -4,11 +4,6 @@
 - 📫 E-mail para contato: jvmainoth@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/JvMainoth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvMainoth&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Mainoth-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Mainoth-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
